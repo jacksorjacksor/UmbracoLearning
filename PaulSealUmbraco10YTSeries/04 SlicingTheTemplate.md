@@ -17,7 +17,7 @@ Razor snippet for pulling in partials:
 ### Overview of Umbraco 10 site - v1
 Flowchart of site after Paul Seal's "How to build a website with Umbraco 10 - Part 4 - Slicing the Templates"
 
-:::mermaid
+```mermaid
 
 flowchart TB
     %% Subgraphs
@@ -68,4 +68,4 @@ flowchart TB
 
     metaData-->HeaderProperties
     header-->HeaderProperties
-:::
+```
