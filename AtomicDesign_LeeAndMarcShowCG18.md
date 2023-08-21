@@ -18,5 +18,3 @@ Atomic | Umbraco |
 -|-|
 Petri Dish | Grid
 Polymer | Nested Content
-
-Ideas: SEO composition
